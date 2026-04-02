@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/non-direct/attentional-focus-in-aiming/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/non-direct/attentional-focus-in-aiming/","dg-note-properties":{}}
 ---
 
 
