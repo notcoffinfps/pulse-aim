@@ -8,7 +8,7 @@ This project is highly inspired by RiddBTW, the legendary improvement-focused ai
 ###### <mark style="background:#ff4d4f">Contacts and Socials</mark>
 Reach me on either personal DMs or join one of the server listed below, there's a higher chance of me responding if you join the server instead of from DMs.
 
-~={blue}**DISCORD notcoffinfps**=~
-~={red}**YouTube notcoffinfps**=~
-**~={cyan}IATC DISCORD dsc.gg/iatc =~**
-**~={purple}pulseAim DISCORD=~**
+<font color="#0070c0">DISCORD notcoffinfps</font>
+<font color="#c00000">YouTube notcoffinfps</font>
+<font color="#00b0f0">IATC DISCORD dsc.gg/iatc</font>
+<font color="#7030a0">pulseAim DISCORD</font>
