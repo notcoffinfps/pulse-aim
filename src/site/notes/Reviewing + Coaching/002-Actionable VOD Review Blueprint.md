@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviewing-coaching/002-actionable-vod-review-blueprint/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/reviewing-coaching/002-actionable-vod-review-blueprint/","title":"Actionable VOD Review","dg-note-properties":{"title":"Actionable VOD Review"}}
 ---
 
 

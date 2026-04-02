@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/direct/003-score-threshold-training-method/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/direct/003-score-threshold-training-method/","title":"Score Threshold Training Method","dg-note-properties":{"title":"Score Threshold Training Method"}}
 ---
 
 

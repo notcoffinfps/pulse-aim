@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/non-direct/004-attentional-focus-in-aiming/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/non-direct/004-attentional-focus-in-aiming/","title":"Attentional Focus in Aiming","dg-note-properties":{"title":"Attentional Focus in Aiming"}}
 ---
 
 
