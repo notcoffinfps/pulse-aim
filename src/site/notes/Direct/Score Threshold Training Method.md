@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/direct/score-threshold-training-method/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/direct/score-threshold-training-method/","dg-note-properties":{}}
 ---
 
 
