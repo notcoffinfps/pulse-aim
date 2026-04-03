@@ -17,7 +17,6 @@ a:hover,
   color: rgb(170, 170, 170) !important;
 }
 
-a:active,
-.cm-hmd-internal-link:active {
-  color: rgb(224, 110, 110) !important;
+.notelink.active-note .filename {
+    color: rgb(224, 110, 110) !important;
 }
