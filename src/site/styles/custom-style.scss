@@ -33,5 +33,8 @@ a:hover,
 }
 
 .callout {
-    font-family: var(font-family);
+    font-family: none !important;
+    word-wrap: break-word;
+    display: block;
+    font-size: 13px;
 }
