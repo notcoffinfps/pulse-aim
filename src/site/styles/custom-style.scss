@@ -5,15 +5,21 @@ body {
   font-family: 'Oxanium', serif !important;
   --dg-content-font-size: 15px;  
   --text-accent: rgb(224, 110, 110) !important;
-  --link-color-hover: rgb(180, 180, 180) !important;
-  --text-accent-hover: rgb(224, 110, 110) !important;
-  --interactive-normal: rgba(224, 110, 110, 1) !important;
-  --interactive-hover: rgba(224, 110, 110, 1) !important;
-  --interactive-accent: rgba(224, 110, 110, 1) !important;
-  --interactive-accent-hover: rgba(224, 110, 110, 1) !important;
   
 }
 
 .markdown-preview-section code {
     color: rgb(224, 110, 110) !important;
+}
+
+.table-of-contents a:hover,
+.toc a:hover,
+.onThisPage a:hover {
+  color: #e06e6e !important;
+}
+
+.table-of-contents a.active,
+.toc a.active,
+.onThisPage a.active {
+  color: rgb(170, 170, 170) !important;
 }
