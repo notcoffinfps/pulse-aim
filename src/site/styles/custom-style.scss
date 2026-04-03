@@ -20,3 +20,11 @@ a:hover,
 .notelink.active-note .filename {
     color: rgb(224, 110, 110) !important;
 }
+
+.referred {
+    border: 0px dashed;
+    border-color: var(--text-accent);
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
