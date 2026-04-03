@@ -1,10 +1,6 @@
 body {
+  --background-primary: rgba(40, 40, 40, 1) !important;
+  --background-secondary: rgba(31, 31, 31, 1) !important;
   font-family: 'Oxanium', serif !important;
   --dg-content-font-size: 15px;  
-}
-
-.theme-dark {
-    background: rgba(40, 40, 40, 1);
-    color: var(--text-normal);
-    font-family: var(--font-default);
 }
