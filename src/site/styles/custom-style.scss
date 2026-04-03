@@ -12,14 +12,12 @@ body {
     color: rgb(224, 110, 110) !important;
 }
 
-.table-of-contents a:hover,
-.toc a:hover,
-.onThisPage a:hover {
-  color: #e06e6e !important;
+a:hover,
+.cm-hmd-internal-link:hover {
+  color: rgb(170, 170, 170) !important;
 }
 
-.table-of-contents a.active,
-.toc a.active,
-.onThisPage a.active {
-  color: rgb(170, 170, 170) !important;
+a:active,
+.cm-hmd-internal-link:active {
+  color: rgb(224, 110, 110) !important;
 }
