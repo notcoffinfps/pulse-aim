@@ -22,9 +22,8 @@ a:hover,
 }
 
 .referred {
-    border: 0px dashed;
-    border-color: var(--text-accent);
-    padding: 10px;
+    border: none !important;
+    padding: 15px;
     margin-left: -10px;
     margin-right: -10px;
 }
