@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/non-direct/004-attentional-focus-in-aiming/","title":"Attentional Focus in Aiming","dg-note-properties":{"title":"Attentional Focus in Aiming"}}
+{"dg-publish":true,"permalink":"/non-direct/004-attentional-focus-in-aiming/","title":"Attentional Focus in Aiming","dg-note-properties":{"permalink":"/non-direct/004-attentional-focus-in-aiming/","title":"Attentional Focus in Aiming"}}
 ---
+
 
 
 Achieving a higher level of aiming competence isn't only from repetition and the act of training your mechanics, the way you shape your focus and cognitive architecture is just as important if not even more important. Attentional focus is a framework to base which type of focus falls into the two category of **internal** and **external** focus. An internal focus places more attention into your own bodily mechanics, putting more focus in how you move your hand, the physical plane of your body. External focus places more attention on the outcome or the desired result you are aiming for, focusing more on the crosshair, how it moves, how it interacts with the target. While both focus are beneficial, there are specific cases where one is favoured over the other, in our case of aim training, external focus is the preferred focus in 90% of the activity we are doing.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/reviewing-coaching/actionable-vod-review-blueprint/","title":"Actionable VOD Review Blueprint","dg-note-properties":{"title":"Actionable VOD Review Blueprint"}}
+{"dg-publish":true,"permalink":"/reviewing-coaching/actionable-vod-review-blueprint/","title":"Actionable VOD Review Blueprint","dg-note-properties":{"permalink":"/reviewing-coaching/actionable-vod-review-blueprint/","title":"Actionable VOD Review Blueprint"}}
 ---
+
 
 
 VOD reviewing is the bridge between your brain’s understanding and your body's execution. If you want to stop guessing and start growing, here is the structured approach you need to take. Being able to effectively review your own VOD is beneficial both to your progression and your critical thinking. This document will explore and explain the basics of VOD reviewing to help you get started in being self-sufficient.

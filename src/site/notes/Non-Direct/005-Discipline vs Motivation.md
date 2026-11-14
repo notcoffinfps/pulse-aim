@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/non-direct/005-discipline-vs-motivation/","title":"Discipline vs Motivation","dg-note-properties":{"title":"Discipline vs Motivation"}}
+{"dg-publish":true,"permalink":"/non-direct/005-discipline-vs-motivation/","title":"Discipline vs Motivation","dg-note-properties":{"permalink":"/non-direct/005-discipline-vs-motivation/","title":"Discipline vs Motivation"}}
 ---
+
 
 Motivation is something that players often look for when they feel stuck or starting to burn out, something I myself am familiar with. However, there are a few things I want to discuss about motivation and mostly it's role when compared to discipline. Understanding the difference between them is something I find valuable to any players at any skill level, but it becomes very beneficial for players that are earlier in their improvement level, players in the novice to intermediate skill range. Firstly, motivation still has its use and I do believe that it's needed to push ourself and give ourself a hopeful boost, but it's important to also know where discipline overshines motivation.
 ### **<font color="#00b0f0">Why Motivation Can Be Unreliable</font>**

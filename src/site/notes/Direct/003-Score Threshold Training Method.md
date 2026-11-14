@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/direct/003-score-threshold-training-method/","title":"Score Threshold Training Method","dg-note-properties":{"title":"Score Threshold Training Method"}}
+{"dg-publish":true,"permalink":"/direct/003-score-threshold-training-method/","title":"Score Threshold Training Method","dg-note-properties":{"permalink":"/direct/003-score-threshold-training-method/","title":"Score Threshold Training Method"}}
 ---
+
 
 
 The score threshold method, popularized by MattyOW, is an auto-regulated form of training that shifts the focus from often mindless repetitions to the quality of your performance. Instead of playing a scenario for a fixed number of repetitions, players would play the scenario until they reach a certain threshold set by themselves, typically within the range of 90-95% of your high score but it can be whatever percentage you want it to be. Before moving forward and explaining how to incorporate this method into your training and why it works, we're going to first explain what auto-regulated training means, what goes into it, and the benefits.
