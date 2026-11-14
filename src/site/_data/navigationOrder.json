@@ -1,16 +1,16 @@
 {
   "/": [
+    "Non-Direct",
     "Direct",
     "001-Landing Pages",
-    "Non-Direct",
     "Reviewing + Coaching"
-  ],
-  "/Direct": [
-    "003-Score Threshold Training Method"
   ],
   "/Non-Direct": [
     "004-Attentional Focus in Aiming",
     "005-Discipline vs Motivation"
+  ],
+  "/Direct": [
+    "003-Score Threshold Training Method"
   ],
   "/Reviewing + Coaching": [
     "Actionable VOD Review Blueprint"
